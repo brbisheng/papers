@@ -1,4 +1,15 @@
-### Published academic papers and my dissertations.
+LSTM - RNN
+CNN
+- GAN
+  - implict/explicit density
+BERT
+OPENAI GPT2
+Encoder-Decoder
+
+- Metrics
+  - KL divergence.
+
+
 
 ### useful Lecture notes
 
