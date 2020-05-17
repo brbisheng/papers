@@ -4,6 +4,7 @@
   - https://www.pyimagesearch.com/2016/08/01/lenet-convolutional-neural-network-in-python/
   - https://cs.stanford.edu/~ermon/
     - https://ermongroup.github.io/cs228-notes/
+    - https://deepgenerativemodels.github.io/notes/index.html
 
 ### useful Lecture notes from edu
 
