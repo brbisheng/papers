@@ -1,7 +1,7 @@
 LSTM - RNN
 CNN
   - max-/average- pooling (after convolutional layer)
-  - fully connected <p>end of CNN</p>
+  - fully connected <span style='color:red'>end of CNN</span>
   - convolutional layer (filter, stride)
 - GAN
   - implict/explicit density
