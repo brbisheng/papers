@@ -1,5 +1,8 @@
 LSTM - RNN
 CNN
+  - max-/average- pooling (after convolutional layer)
+  - fully connected
+  - convolutional layer (filter, stride)
 - GAN
   - implict/explicit density
 BERT
@@ -11,7 +14,10 @@ Encoder-Decoder
 
 
 
-### useful Lecture notes
+### others
+- good: https://www.pyimagesearch.com/2016/08/01/lenet-convolutional-neural-network-in-python/
+
+### useful Lecture notes from edu
 
 LSTM:
   - shitty 
