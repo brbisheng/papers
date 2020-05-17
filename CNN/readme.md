@@ -14,6 +14,15 @@ CNN
   - style matrix
   - ResNet (residual network)
   - inception modules
+  - depth dropout
+
+filter (kernel, depth, feature map)
+
+<p> first layer feature maps, usually detecting the edges</p>
+
+<p>https://towardsdatascience.com/simple-introduction-to-convolutional-neural-networks-cdf8d3077bac</p>
+<p>https://d2l.ai/chapter_convolutional-modern/resnet.html</p>
+<p>https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2</p>
 
 - GAN
   - implict/explicit density
@@ -25,5 +34,6 @@ Encoder-Decoder
 
 - Metrics
   - KL divergence.
+
 
 
