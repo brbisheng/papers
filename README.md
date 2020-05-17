@@ -1,6 +1,8 @@
 
 ### others
-- good: https://www.pyimagesearch.com/2016/08/01/lenet-convolutional-neural-network-in-python/
+- good: 
+  - https://www.pyimagesearch.com/2016/08/01/lenet-convolutional-neural-network-in-python/
+  - https://ermongroup.github.io/cs228-notes/
 
 ### useful Lecture notes from edu
 
