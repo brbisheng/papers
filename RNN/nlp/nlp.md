@@ -1,4 +1,6 @@
-## natural language.
+## Natural Language part I, Linguistics Theory
+
+## natural language part II, Application
 
 - Bag of words
 - Term Frequency ~ Inverse Document Frequency (TFIDF). to improve the bag of words by adjusting the weights.
@@ -24,4 +26,10 @@
 
 - Phrase: np, vp, pp, cp
   - constituency grammar (the whole tree composition) and dependency grammer (somehow derivative, with some leaves removed)
+  
+- Word2Vec
+  - one hot code representation... orthogonal, no similarity
+  - thus, word vector == word embeddings == word representations.
+  - "center word" | "outside context" representation: p(w_{t+/-n}|w_t), given a word, n the index shift.
+  - skip-grams: given center, predict outside context. Continous bag of words: given context, predict center.
   
