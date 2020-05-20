@@ -1,3 +1,10 @@
+mouse zoom in
+- https://stackoverflow.com/questions/46647138/zoom-in-on-a-mousewheel-point-using-scale-and-translate
+- https://jsfiddle.net/xta2ccdt/13/
+  - super important: https://stackoverflow.com/questions/1646698/what-is-the-new-keyword-in-javascript
+
+ohlc,
+volumes,multiple volumes
 
 ### others
 - good: 
