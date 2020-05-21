@@ -1,5 +1,8 @@
 ## Natural Language part I, Linguistics Theory
 
+Morphology
+- inflectional / derivational
+
 ## natural language part II, Application
 
 - Bag of words
