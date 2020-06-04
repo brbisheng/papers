@@ -6,4 +6,6 @@
     - we have to convert between data.table and data.frame
   - https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html
     - intoduction, for the knowing of .SD, .SDcols
+  - # https://stackoverflow.com/questions/12478943/how-to-group-data-table-by-multiple-columns
+    - ddply slower.
   
