@@ -7,3 +7,5 @@
   - http://games-cn.org/games201/
 3. 知乎：
   - https://www.zhihu.com/question/41468803
+4. Stanford
+  - https://graphics.stanford.edu/courses/cs348b/
